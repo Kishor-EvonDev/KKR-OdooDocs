@@ -1,0 +1,5 @@
+Run Odoo from terminal using conf file 
+--------------------------------------------------
+odoo-bin(path) -c odoo.conf(path)
+/home/kishor/workspace/odoo17/odoo/odoo-bin -c /home/kishor/workspace/odoo17/odoo.conf
+
